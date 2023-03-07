@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MoBo IT</string>
+
+    <string-array name="staffStudent">
+        <item>Student</item>
+        <item>Staff</item>
+    </string-array>
+
+    <string-array name="modules">
+        <item>Computer Systems</item>
+        <item>Programming Concepts</item>
+        <item>Mathematics for Computing</item>
+        <item>Professional Practice</item>
+        <item>Communication in Tech World</item>
+        <item>Data Technologies</item>
+        <item>Business Analysis and Software Design</item>
+        <item>Internet Technologies</item>
+        <item>Probability and Statistics</item>
+        <item>Entrepreneurship and Start-up Culture</item>
+        <item>Arts for Technology</item>
+        <item>Object Oriented Programming</item>
+        <item>Communication Protocols and Models</item>
+        <item>Information Security</item>
+        <item>Programming with Vectors and Matrices</item>
+        <item>Data Structures and Algorithms</item>
+        <item>Operating Systems and Platforms</item>
+        <item>Cloud Computing Fundamentals</item>
+        <item>Technology Challenge Competition</item>
+        <item>Project Management</item>
+    </string-array>
+
+    <string-array name="grades">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>I</item>
+    </string-array>
+
+</resources>

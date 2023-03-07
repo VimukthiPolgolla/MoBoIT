@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30204444992",
+    "project_id": "mobo-it-8ee9e",
+    "storage_bucket": "mobo-it-8ee9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30204444992:android:a4d73abe57b7c5a9fbfaa5",
+        "android_client_info": {
+          "package_name": "com.example.moboit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30204444992-5skrhjjspe1uclohvt60isdjnqi14cu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-Kim85Jm0Og-Ln9Trc0q1jDZyNCiV9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30204444992-5skrhjjspe1uclohvt60isdjnqi14cu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
